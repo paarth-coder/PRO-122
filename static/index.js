@@ -1,5 +1,6 @@
 $(document).ready(function(){
 
+    
     console.log('Document is Ready')
 
     //  getting the date using Date() object and converting it to a string
