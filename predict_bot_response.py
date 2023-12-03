@@ -67,4 +67,5 @@ def bot_response(user_input):
         bot_response = random.choice(intent['responses'])
     
         return bot_response
+        
     
